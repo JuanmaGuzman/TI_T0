@@ -1,0 +1,9 @@
+CORRER APP: 
+- python3 manage.py runserver
+
+CORRER SHELL DE PRUEBA:
+- python3 manage.py shell
+
+MIGRACIONES: 
+- python3 manage.py makemigrations (to create migrations for those changes)
+- python3 manage.py migrate (to apply those changes to the database.)
